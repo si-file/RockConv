@@ -6,7 +6,7 @@ RockConv converts all the videos in a given directory into a video format compat
 
 # Important info:
 
-videos that RockConv outputs are confirmed to work with ipod classic 7th gens, however the command i used is an altered command straight from the rockbox wiki so this command *should* work with all compatible ipod models too!
+videos that RockConv outputs are confirmed to work with ipod classic 7th gens, however the command i used is an altered command straight from the rockbox wiki so this program *should* work with all compatible ipod models too!
 
 ffmpeg is required to run this: https://ffmpeg.org/
 
