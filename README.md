@@ -12,7 +12,7 @@ ffmpeg is required to run this: https://ffmpeg.org/
 
 RockConv is intended to run on windows, however altering this program to run on linux is simple. therefore, i might make a linux version of this (or feel free to fork this and make your own!)
 
-zero gen-ai or other types of ai were used other than duck.ai for fixing an issue i had with the batch command that runs the ffmpeg conversion command. i (myself) heavily altered what it gave me to allow it to be implemented into RockConv.
+zero gen-ai or other types of ai were used other than duck.ai for fixing an issue i had with the ffmpeg conversion command. i (myself) heavily altered what it gave me to allow it to be implemented into RockConv.
 
 # Sources I used:
 - the rockbox user manual: https://www.rockbox.org/download/data/rockbox-ipod6gmanual.pdf
