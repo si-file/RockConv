@@ -4,6 +4,11 @@ a simple video converter for rockbox ipods built in python!
 # How it works:
 RockConv converts all the videos in a given directory into a video format compatible for ipods with rockbox installed. all converted videos are placed in a folder named "converted" in the same directory as the original videos. its as simple as entering the directory containing ffmpeg, the directory of the target videos, and the format of the videos you want to convert!
 
+# What I'm working on
+- windows edition: fully working, not what i'm focusing on rn
+- linux edition: being currently worked on!
+- macos edition: no progress yet
+
 # Important info:
 
 videos that RockConv outputs are confirmed to work with ipod classic 7th gens, however the command i used is an altered command straight from the rockbox wiki so this program *should* work with all compatible ipod models too!
